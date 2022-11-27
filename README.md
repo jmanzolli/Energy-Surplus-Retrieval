@@ -1,16 +1,8 @@
 # Energy-Surplus-Retrieval
 Code used in the article "Electric vehicles charging using photovoltaic energy surplus: A framework based on blockchain"
 
-Authors: Irvylle Raimunda Mourão Cavalcante 1, Jamilson Pinheiro Júnior 2, Jônatas Augusto Manzolli 3, Luiz Felipe Almeida 4, Mauro Pungo 2, Hugo Gabriel Valente Morais 1
+Authors: Irvylle Raimunda Mourão Cavalcante, Jamilson Pinheiro Júnior, Jônatas Augusto Manzolli, Luiz Felipe Almeida, Mauro Pungo, Hugo Gabriel Valente Morais
 
-1 INESC-ID, Instituto Superior Técnico,1000-029 Lisbon, Portugal
-irvylle.cavalcante@tecnico.ulisboa.pt; hugo.morais@tecnico.ulisboa.pt;
+Abstract: It becomes crucial for individuals and companies to reduce their carbon footprint in a society more self-conscious about climate change and other environmental issues. In this sense, large public and private institutions are investing in small photovoltaic systems to produce green energy for self-consumption. Nevertheless, an essential part of this energy is wasted due to lower consumption during non-business periods. This work proposes a novel framework that uses this energy surplus to charge external electric vehicles, creating new business opportunities. Furthermore, this work introduces a novel marketplace platform based on blockchain technology to allow energy trading between institutions and electric vehicle owners. Since the energy provided to charge the electric vehicles comes from small generation, the energy's selling price can be more attractive than the ones offered by the retailers – meaning economic gains for the institutions and savings for the users. A case study was carried out to evaluate the feasibility of the proposed solution and its economic advantages. Given the assumptions considered in the study, 3213 electric vehicles could be fully charged by one institution in one year. This result indicates that implementing the proposed framework could enable synergy between institutions and electric vehicle owners, providing clean and affordable energy to charge vehicles.
 
-2 Instituto Superior Técnico, Rua Alves Redol, 1049-001 Lisbon, Portugal
-mauro.pungo@tecnico.ulisboa.pt; jamilson.pinheiro.j@tecnico.ulisboa.pt; 
-
-3 INESC Coimbra, University of Coimbra, DEEC, Polo II, 3030-290 Coimbra, Portugal
-jonatas.manzolli@deec.uc.pt; 
-
-4 ISR, University of Coimbra, DEEC, Polo II, 3030-290 Coimbra, Portugal
-luiz.almeida@isr.uc.pt;
+Keywords – Blockchain; Business Model; Electric vehicles; Intelligent Management Systems; Photovoltaic systems.
