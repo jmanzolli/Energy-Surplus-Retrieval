@@ -1,5 +1,5 @@
 # Energy-Surplus-Retrieval
-Code used in the article "Electric vehicles charging using photovoltaic energy surplus: A framework based on blockchain"
+Code used in the article *Electric vehicles charging using photovoltaic energy surplus: A framework based on blockchain*
 
 Authors: Irvylle Raimunda Mourão Cavalcante, Jamilson Pinheiro Júnior, Jônatas Augusto Manzolli, Luiz Felipe Almeida, Mauro Pungo, Hugo Gabriel Valente Morais
 
